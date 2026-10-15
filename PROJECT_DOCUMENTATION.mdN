@@ -1,0 +1,62 @@
+Smart Farmer Crop Planner
+
+1. Project Overview
+
+Smart Farmer Crop Planner is a menu-driven C++ application designed to help farmers manage crop expenses, calculate income and profit, record irrigation details, and view a farm report.
+
+2. Problem Statement
+
+Farmers often face difficulties managing crop expenses and calculating profits manually. This application simplifies expense management and profit calculation.
+
+3. Objectives
+
+- Record farmer details.
+- Enter crop information and production expenses.
+- Calculate total income, expenses, and profit.
+- Record irrigation details and costs.
+- Generate a farm report.
+
+4. Technologies Used
+
+- Programming Language: C++
+- IDE: Code::Blocks
+- Header Files: iostream, string
+
+5. Main Modules
+
+1. Enter Farmer Details
+2. Calculate Crop Record
+3. Irrigation Record
+4. View Farm Report
+5. Exit
+
+6. Profit Calculation
+
+Total Income = Expected Yield × Selling Price per Quintal
+
+Total Expenses = Crop Expenses + Irrigation Cost
+
+Total Profit = Total Income − Total Expenses
+
+7. How to Run
+
+1. Download the C++ source file from this repository.
+2. Open Code::Blocks.
+3. Open or create a C++ project.
+4. Add the source code.
+5. Build and run the program.
+
+8. Limitations
+
+- The application stores information only while the program is running.
+- It manages one farmer and one crop record at a time.
+
+9. Conclusion
+
+The Smart Farmer Crop Planner demonstrates how C++ can be used to manage crop expenses, calculate profit, record irrigation costs, and display a farm report.
+
+10. Author
+
+Name: Dhanvi vaghasiya
+
+College: Birla Vishvakarma Mahavidylaya
